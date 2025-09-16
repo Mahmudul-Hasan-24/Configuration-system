@@ -5,7 +5,7 @@ This project implements a **knowledge-based configuration (KBC) system** using *
 The goal is to create a model where **product knowledge, rules, and constraints** are explicitly encoded, allowing the solver to:
 - Generate **valid product configurations**
 - Automatically **reject incompatible choices**
-- Optionally **optimize configurations** (e.g., minimize cost)
+- Optionally **optimize configurations** 
 
 This approach is commonly used in **mass customization**, **complex product configuration**, and **decision-support systems**.
 
@@ -92,5 +92,5 @@ This project is licensed under the MIT License – see [LICENSE](LICENSE) for de
 
 ## 👤 Author
 **Mahmudul Hasan**  
-Master’s in Business Analytics – TU Graz  
-[LinkedIn](https://www.linkedin.com/) | [GitHub](https://github.com/Mahmudul-Hasan-24)
+Master’s of Computational Social System (Business Analytics) at Technical University of Graz and University of  Graz  
+
